@@ -14,7 +14,7 @@ This is a classic Snake game built using Python's `turtle` module. The project i
    git clone https://github.com/SudharshanamBuddha/Snake-Game-With-Python-Turtle.git
    cd snake-game
    
-**##Ensure you have Python installed (3.6 or higher recommended)**
+##Ensure you have Python installed (3.6 or higher recommended)
 
 **##Files in the Project 📂**
 - **Snake Game With Python.py: Main file to run the game.
