@@ -17,24 +17,28 @@ This is a classic Snake game built using Python's `turtle` module. The project i
 ## Ensure you have Python installed (3.6 or higher recommended)
 
 ## Files in the Project 📂
-- **Snake Game With Python.py: Main file to run the game.
-- **snake.py: Logic for the snake's movement and behavior.
-- **food.py: Logic for the food's appearance and placement.
-- **scoreboard.py: Logic for tracking and displaying the score and high score.
-- **data.txt: Stores the highest score achieved in the game.
+- **Snake Game With Python.py**: Main file to run the game.
+- **snake.py**: Logic for the snake's movement and behavior.
+- **food.py**: Logic for the food's appearance and placement.
+- **scoreboard.py**: Logic for tracking and displaying the score and high score.
+- **data.txt**: Stores the highest score achieved in the game.
   
 ## Controls 🎮
-- **Arrow Keys: Control the direction of the snake:
-- **Up: Move up
-- **Down: Move down
-- **Left: Move left
-- **Right: Move right
+- **Arrow Keys**: Control the direction of the snake:
+- **Up**: Move up
+- **Down**: Move down
+- **Left**: Move left
+- **Right**: Move right
 
 ## Future Improvements 🔮
-- **Add sound effects for food consumption and collisions.
-- **Implement levels with increasing difficulty.
-- **Include power-ups and obstacles for added challenge.
+- Add sound effects for food consumption and collisions.
+- Implement levels with increasing difficulty.
+- Include power-ups and obstacles for added challenge.
 
 ## Preview 📸
 ![image](https://github.com/user-attachments/assets/b30ba35b-d28c-40ac-ac44-8a14d100e7ff)
+
+
+
+
 ![image](https://github.com/user-attachments/assets/a97ce401-210e-4578-9bdc-f320a37c359a)
